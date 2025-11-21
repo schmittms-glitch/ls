@@ -1,0 +1,201 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="GLOBO SP 4K"tvg-id="RGSPHD"tvg-logo="https://lh3.googleusercontent.com/-LplNSODD5mg/YG2oh_rchJI/AAAAAAAAKLs/a3lcSRhEyjoQNrVWt80naFPVvGzZK0m0gCLcBGAsYHQ/GLOBO%2B4K.png"group-title="CANAIS",GLOBO SP 4K
+http://mstv.shop/748996816/202903377/88431
+#EXTINF:-1 tvg-name="GLOBO SP H265"tvg-id="RGSPHD"tvg-logo="https://lh3.googleusercontent.com/-KMuBZM0Se3w/YG3ygTPgTLI/AAAAAAAAKM0/M4hmbSAtGYkA3iePHeEaIS49f2nHOS3wwCLcBGAsYHQ/GLOBO%2BFHD%2BSP%2BH.265.png"group-title="CANAIS",GLOBO SP H265
+http://mstv.shop/748996816/202903377/88462
+#EXTINF:-1 tvg-name="TV ANHANGUERA FHD"tvg-id="GLOBO.br"tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png"group-title="CANAIS",TV ANHANGUERA FHD
+http://mstv.shop/748996816/202903377/164240
+#EXTINF:-1 tvg-name="TV ANHANGUERA HD"tvg-id="GLOBO.br"tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png"group-title="CANAIS",TV ANHANGUERA HD
+http://mstv.shop/748996816/202903377/71395
+#EXTINF:-1 tvg-name="TV ANHANGUERA HD"tvg-id="GLOBO.br"tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png"group-title="CANAIS",TV ANHANGUERA HD
+http://mstv.shop/748996816/202903377/71282
+#EXTINF:-1 tvg-name="RECORD TV GOIANIA HD"tvg-id="RECSPHD"tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png"group-title="CANAIS",RECORD TV GOIANIA HD
+http://mstv.shop/748996816/202903377/71378
+#EXTINF:-1 tvg-name="RECORD SP HD"tvg-id="RECSPHD"tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png"group-title="CANAIS",RECORD SP HD
+http://mstv.shop/748996816/202903377/71038
+#EXTINF:-1 tvg-name="RECORD SP 4K"tvg-id="RECSPHD"tvg-logo="https://lh3.googleusercontent.com/-8cciQ3FeGVI/YG2okEeyodI/AAAAAAAAKMA/YnmGz7_AwNIdQ0lvlTQBak1M0-VePlmhACLcBGAsYHQ/RECORD%2B4K.png"group-title="CANAIS",RECORD SP 4K
+http://mstv.shop/748996816/202903377/88436
+#EXTINF:-1 tvg-name="BAND 4K"tvg-id="Band.br"tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png"group-title="BAND",BAND 4K
+http://mstv.shop/748996816/202903377/88409
+#EXTINF:-1 tvg-name="BAND H265"tvg-id="Band.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiREEmFn8tz9GlOU9XoRjzZCQeARoewRQMfqDTaN1hdtJCRUlu8CXWUrAckw8udmG6ej6bY1YpztR-JjII_SfftDP4elqutFJvY0WxL5WDfYGTACHylDEQob1X3GmJZF98LkA7RUYt6Ddr95YtMOc9eb-fA6-56dg0CT9T-ccKfgVc8JgTBBpbLP1zc"group-title="BAND",BAND H265
+http://mstv.shop/748996816/202903377/166833
+#EXTINF:-1 tvg-name="BAND SP 4K"tvg-id="BAND"tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png"group-title="CANAIS",BAND SP 4K
+http://mstv.shop/748996816/202903377/88409
+#EXTINF:-1 tvg-name="BD SP FHD"tvg-id="BAND"tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png"group-title="BAND",BD SP FHD
+http://mstv.shop/748996816/202903377/133316
+#EXTINF:-1 tvg-name="SBT 4K"tvg-id="SBTHD"tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2B4K%2B.png"group-title="CANAIS",SBT 4K
+http://mstv.shop/748996816/202903377/88414
+#EXTINF:-1 tvg-name="SBT HD"tvg-id="SBTHD"tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s300/sbt.png"group-title="CANAIS",SBT HD
+http://mstv.shop/748996816/202903377/168660
+#EXTINF:-1 tvg-name="CNN BRASIL H265"tvg-id="CNNB"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgivLKCK-bWQ-6QadoLGQpHlg_zeUCo-ydXzSP5EEDgq0KLjhkUXmqsNeuvz7JDciP1k9gGsjIo2s66OMy56tcFtJLTfYQkR4qLJRsXZLe4q6CBxrgAC1UHlx_8og8yYLtEMz4SM_z7ngQ9-QS00EBHYyhfZvr_-8PRFe46ku9pNWxe2VB3eQ0K3NpB"group-title=''CANAIS'',CNN BRASIL H265
+http://mstv.shop/748996816/202903377/166868
+#EXTINF:-1 tvg-name="CNN BRASIL 4K"tvg-id="CNNB"tvg-logo="https://lh3.googleusercontent.com/-kExfT4wSg-M/YY5EFxpI2nI/AAAAAAAAKuI/iuEh2lM3cDsoOkNbj61QFtAzLQ6n50nTwCLcBGAsYHQ/cnn%2B4k.png"group-title=''CANAIS'',CNN BRASIL 4K
+http://mstv.shop/748996816/202903377/136306
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS H265"tvg-id="5STAP1"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjQzmd-4WtfmMgSEz_i7bnLve2JGvUP2ngH7u0rIiGYxkL7rGLYfLhin5Fm-Y6wAM40B-4guEeMm-3OYTv_C8Wz_pO9fAl4QyVMXHvXbfEabRk_pwXkm6V9sOe983rQvkcfCQ1HMljVR42J6P72gP3QE-b_E6NPFNRP8_WSK8jnLJt-DyxmcIXNpT5r"group-title=''CANAIS'',JOVEM PAN NEWS H265
+http://mstv.shop/748996816/202903377/168735
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS 4K"tvg-id="5STAP1"tvg-logo="https://lh3.googleusercontent.com/-OVJAzJOsyJE/YY5EFzHDfbI/AAAAAAAAKuE/SERFGijKl6cUQ2NgwxQ0mWUVT7FcHy1PQCLcBGAsYHQ/jp%2B4k.png"group-title=''CANAIS'',JOVEM PAN NEWS 4K
+http://mstv.shop/748996816/202903377/136303
+#EXTINF:-1 tvg-name="BAND NEWS FHD"tvg-id="BNDNWHD"tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png"group-title=''CANAIS'',BAND NEWS FHD
+http://mstv.shop/748996816/202903377/168733
+#EXTINF:-1 tvg-name="BAND NEWS H265"tvg-id="BNDNWHD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhonbKH5w0XLIk1EIxB_dZjc9sPIF3UaKGS5sw-NjABEPFy4EsJQClT5AbqBYuxh52GCmgJpA710-JuVdAT3rtt-GNsj7qBQLBzyJyfAHb-q6FCtdyGJBYeiCBYtpu9S1prEWtl125e4pO7KaeBtxHenlHjjYjvQJ8vox6U5j0rx9VLlC_VJbF3-kLx"group-title="CANAIS",BAND NEWS H265
+http://mstv.shop/748996816/202903377/166786
+#EXTINF:-1 tvg-name="RECORD NEWS H265"tvg-id="RECNEWH"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjuZ7XCmImC-QuVJRU2uSlU4L6sZsrazgCODWyDLSgJ7u9JCGTWBD77VPuHxzyT28-dXOa-2Yz45SJkCel9WpwFL-ktuTUblvl1gxF0T4DlBLBFCRzALZNaiykoczHVjaoxZIaRCqyr-g6BYM-Wdypo0tSzs5GcckzYAER_FkoQFWKrJYJg6zgrvo1Q"group-title=''CANAIS'',RECORD NEWS H265
+http://mstv.shop/748996816/202903377/166864
+#EXTINF:-1 tvg-name="RECORD NEWS FHD"tvg-id="RECNEWH"tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png"group-title=''CANAIS'',RECORD NEWS FHD
+http://mstv.shop/748996816/202903377/168734
+#EXTINF:-1 tvg-name="GLOBONEWS 4K"tvg-id="GLN"tvg-logo="https://lh3.googleusercontent.com/-6HNVktDIRUo/YY5EF5xdNEI/AAAAAAAAKuQ/Lkg6w5Ugv90LK4dRlfY4GGDn0oSGueAjwCLcBGAsYHQ/new%2B4k.png"group-title=''CANAIS'',GLOBONEWS 4K
+http://mstv.shop/748996816/202903377/136305
+#EXTINF:-1 tvg-name="GLOBO NEWS H265"tvg-id="GLN"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiL47j_Zq2NB4OQn2Rl-DHA6jxo1SmV-9AguDdLb0Kh0SDErAL5FXdozGBdABvLAampKEmN1Di3Zlo_3FHe3wUrCiznyPHn9zYHAWjwF4BXGdBMfC54023f8Cn7cphPHC1BL9yuUW-Or77p1LXcoTc9xlD82nim5IMaSmL5o1HvbuGnQxw8sCzsFjmy"group-title=''CANAIS'',GLOBO NEWS H265
+http://mstv.shop/748996816/202903377/166801
+#EXTINF:-1 tvg-name="ANIMAL PLANET 4K"tvg-id="Animal.Planet.br"tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2B4K.png"group-title=''CANAIS'',ANIMAL PLANET 4K
+http://mstv.shop/748996816/202903377/88415
+#EXTINF:-1 tvg-name="ANIMAL PLANET H265"tvg-id="Animal.Planet.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgPQ0vxhczAoFb0rHfZNmoMTNnWUteFISnpuslVppj-ObK-wQo0QV0XZm9tttIGJH8DSeleYbTSmxj2Dv2iocjt65ZusUz4NSNG4sx1bgcr6xbW0KSVDsIcATV06jMpDkJnZ4amO42LZafa2q-MoGhpD6kZy3xvLHCtVl_IUfAjYbLXmYMRPeyGncNO"group-title=''CANAIS'',ANIMAL PLANET H265
+http://mstv.shop/748996816/202903377/166783
+#EXTINF:-1 tvg-name="ARTE 1 FHD"tvg-id="ARTE1HD"tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png"group-title=''CANAIS'',ARTE 1 FHD
+http://mstv.shop/748996816/202903377/71143
+#EXTINF:-1 tvg-name="ARTE 1 H265"tvg-id="ARTE1HD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjn26kPk4LRFuFcgza722lUZWIAZJNpmOJIcHj8a1waifanQu8nrMdZjM1M02byi06p-IG6bw_ct3LWHNOzdJQNGJkwQgN-XcqHYWHUEVRcADEacDSHcTiXsKPFj2hbLLyqszGTLV_8qSrYOfw0eMDDrJlW2CxQDLBtecJyCAN4t6zTt94Sl2YK_Kfr"group-title=''CANAIS'',ARTE 1 H265
+http://mstv.shop/748996816/202903377/166784
+#EXTINF:-1 tvg-name="CANCAO NOVA HD"tvg-id="CANCAOH"tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png"group-title="RELIGIOSOS ",CANCAO NOVA HD
+http://mstv.shop/748996816/202903377/71556
+#EXTINF:-1 tvg-name="COMEDY CENTRAL 4K"tvg-id="COMCHD"tvg-logo="https://lh3.googleusercontent.com/-Ds_wt7cladw/YY5EGXpZOlI/AAAAAAAAKuY/nPj94n2472sd9mi-RDv5m-jTjuS34Ya_gCLcBGAsYHQ/comedia%2B4k.png"group-title=''CANAIS'',COMEDY CENTRAL 4K
+http://mstv.shop/748996816/202903377/136309
+#EXTINF:-1 tvg-name="COMEDY CENTRAL H265"tvg-id="COMCHD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjX0htLVFWkoV3Au8jjm2C5SRR8OCjV1G4vr9zOluyevovF4kaR137tGKZVlC6MASrI1sq9ZbTv6doJ8K0KVJO_jUzsHq_Bbb68lRzFiuEBBGyHgO_bd5renjmEqyHUW5la1ptRmFbFWpHGb_BmKA2R0w6S-qmM7h_DQ9U7caRL-uFueLUkoJ1K34sU"group-title=''CANAIS'',COMEDY CENTRAL H265
+http://mstv.shop/748996816/202903377/166793
+#EXTINF:-1 tvg-name="DISC CHANNEL 4K"tvg-id="Discovery.HD.br"tvg-logo="https://lh3.googleusercontent.com/-bxtQ9NEFzF0/YG2obOYYzaI/AAAAAAAAKKw/MOXrrMLf-XUxMv4kLmhKOp0b1dLQGfx6gCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2B4K.png"group-title=''CANAIS'',DISC CHANNEL 4K
+http://mstv.shop/748996816/202903377/88412
+#EXTINF:-1 tvg-name="DISC CHANNEL H265"tvg-id="Discovery.HD.br"tvg-logo="https://lh3.googleusercontent.com/-knWged2h77U/YG3yhHzLhsI/AAAAAAAAKNE/2S9OrM4kKFssVEplrZh2iIpdizJWvhS5wCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2BFHD%2BH.265.png"group-title=''CANAIS'',DISC CHANNEL H265
+http://mstv.shop/748996816/202903377/88460
+#EXTINF:-1 tvg-name="DISC H & HEALTH 4K"tvg-id="Discovery.Home.and.Health.HD.br"tvg-logo="https://lh3.googleusercontent.com/-V_6OmDAnIXQ/YY5EFoDrIcI/AAAAAAAAKuA/o-z_6-IqNXI1cEmlKCvFciP1WP164d2tQCLcBGAsYHQ/home%2B4k.png"group-title=''CANAIS'',DISC H & HEALTH 4K
+http://mstv.shop/748996816/202903377/136307
+#EXTINF:-1 tvg-name="DISC H & HEALTH H265"tvg-id="Discovery.Home.and.Health.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhBX3Pj3z8P6ee_DLmGJYIuwqeWvMnL8RJBV3YWuwuXQC9mAaBwrh0XABsFO6mJnRsVRJ7bTsA9Zd6ILdi1Cb0oIs_Ep0zOYufFXI_BGN4EE0gmwchQJWV_nC2e86bVXakoi6ig25ffrSGn2OWvBFB-aP6MlQdnF81ciS8NJQqZvWaRh2Nr8_lwEybQ"group-title=''CANAIS'',DISC H & HEALTH H265
+http://mstv.shop/748996816/202903377/166835
+#EXTINF:-1 tvg-name="DISC ID FHD"tvg-id="IDB"tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png"group-title=''CANAIS'',DISC ID FHD
+http://mstv.shop/748996816/202903377/71050
+#EXTINF:-1 tvg-name="DISC ID H265"tvg-id="IDB"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lB82FKvaHOsANe5l8hryB55h3qSXCIq1_6QhlELooRbJL8eEFYZjDsVOC677ZrqVSq3_zMkcvKip1ogebP1fZzbP8Nq4L-YLOrtRicOU6IKdOrIMzIexKwYj9W1vKDotVS1IcuIR_X4YeKu0E6gjdj_RlQe2sbqxssWVow-y-YbMhsavEqx20oVQ"group-title=''CANAIS'',DISC ID H265
+http://mstv.shop/748996816/202903377/166851
+#EXTINF:-1 tvg-name="DISC SCIENCE FHD"tvg-id="Discovery.Science.HD.br"tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png"group-title=''CANAIS'',DISC SCIENCE FHD
+http://mstv.shop/748996816/202903377/71061
+#EXTINF:-1 tvg-name="DISC SCIENCE H265"tvg-id="Discovery.Science.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhiUR270bv59k18N2Znzc0GA4Yr-wdnTiPdXZxOu8lPnOcbQKE3-On_ZYpMniovtc2PHEInd82k6vu1EN3OXOlzD0hIeWKqf9DSHA5j7HpGNvOgck68Cyj6i8dppxyysELspLh2uMYxI2W5mFo6nFWE0dvYM1GhuLMoahSQ9Y4K7YZYWKBC5Xtu_Jv-"group-title=''CANAIS'',DISC SCIENCE H265
+http://mstv.shop/748996816/202903377/166837
+#EXTINF:-1 tvg-name="DISC THEATER FHD"tvg-id="Discovery.Theater.br"tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png"group-title=''CANAIS'',DISC THEATER FHD
+http://mstv.shop/748996816/202903377/71053
+#EXTINF:-1 tvg-name="DISC THEATER H265"tvg-id="Discovery.Theater.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgzl66jkVP98huycGXUdShFUST8BNLfYIxCkc-MRbiFAq17fdgmWj7FBqLQYi_m6DDXDoPKhkcaugPEuBv5V7LLBGJpF-P1RoX1J18DQb77TUlChQxgjKNTVo4py5NHJkAxckreAleqSNOPrLNTFAFC5DdFLcMhCO9LvsrsBqDZfmIIw8SxVN52x4KS"group-title=''CANAIS'',DISC THEATER H265
+http://mstv.shop/748996816/202903377/166838
+#EXTINF:-1 tvg-name="DISC TURBO 4K"tvg-id="Discovery.Turbo.HD.br"tvg-logo="https://lh3.googleusercontent.com/-AXfU1Wuqw9c/YY5EG6CTaeI/AAAAAAAAKuc/gJXxeSsoeMIlU5OqyiZExqU3okPFCVlIACLcBGAsYHQ/turbo%2B4k.png"group-title=''CANAIS'',DISC TURBO 4K
+http://mstv.shop/748996816/202903377/136310
+#EXTINF:-1 tvg-name="DISC TURBO H265"tvg-id="Discovery.Turbo.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEifCrXVHD9CE56BjhneAHN00gk0FwGDzvvE7KSvE29AJDNAz6BfgjVBrLvbscQ0sVtJ28-KTLkpwohc3PiqPli2JEQWGmR5fbNdpHLgQelLIFjTyc0JUmPC13lXGuTgJYnpgDiuy990qHi5gtrraxWh4qADYO0dcRTkHzrWyXlCwYnX0E4gd_O4c17n"group-title=''CANAIS'',DISC TURBO H265
+http://mstv.shop/748996816/202903377/166839
+#EXTINF:-1 tvg-name="DISC WORLD FHD"tvg-id="Discovery.World.br"tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png"group-title=''CANAIS'',DISC WORLD FHD
+http://mstv.shop/748996816/202903377/71064
+#EXTINF:-1 tvg-name="DISC WORLD H265"tvg-id="Discovery.World.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh7uSN1zl6vNN8TFF7ap2z0m5JQtjoOGVvv4Aww9oC-V3MOvGSyUeLxHxT48-XFPI4Ic9iMDjcPv8boV30dUEPf1yEaok4K-C0Jnmbk4QjWKt_NK_VtMdCviJwIYxQFW3GGrdEFfooG8FCoeDBvG3Op9oZ9itFdPCcJYiNP5cxM2-wjlw53gE0-3Rnl"group-title=''CANAIS'',DISC WORLD H265
+http://mstv.shop/748996816/202903377/166840
+#EXTINF:-1 tvg-name="GNT 4K"tvg-id="GNTHD"tvg-logo="https://lh3.googleusercontent.com/-CisUD3M0gEw/YY5EHc6nVKI/AAAAAAAAKuo/k4M-fJ2HesM7QCYCkedMNhSKoWk-oxQCgCLcBGAsYHQ/gnt%2B4k.png"group-title=''CANAIS'',GNT 4K
+http://mstv.shop/748996816/202903377/136311
+#EXTINF:-1 tvg-name="GNT H265"tvg-id="GNTHD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgnO0E-QMSk568GJLDTjGz1cgm8wBU5-2-T3ipiorR_sVI5KidzAzN5KwxFvxvf6fJkxpBlXHy8rgsF5dHrAydNSgLGHjU0VsTHpE-ljST5iadf3sln00Ur88u9sbjnF7NttLLawT7HMicAGTxYuaryXRz_4QIBliP8__BWEOmPF9X98ZPZz8Hn_Nuz"group-title=''CANAIS'',GNT H265
+http://mstv.shop/748996816/202903377/166849
+#EXTINF:-1 tvg-name="HBO 4K"tvg-id="HBO.HD.br"tvg-logo="https://lh3.googleusercontent.com/-VFqo5Tp6WTk/YG2oeoG1amI/AAAAAAAAKLU/wSTuNZrs93gIAwKOTQ1rj8CqfxsiIWu5wCLcBGAsYHQ/HBO%2B4K.png"group-title=''CANAIS'',HBO 4K
+http://mstv.shop/748996816/202903377/88424
+#EXTINF:-1 tvg-name="HBO FHD"tvg-id="HBO.HD.br"tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png"group-title=''CANAIS'',HBO FHD
+http://mstv.shop/748996816/202903377/71130
+#EXTINF:-1 tvg-name="HBO 2 FHD"tvg-id="HBO.2.HD.br"tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png"group-title=''CANAIS'',HBO 2 FHD
+http://mstv.shop/748996816/202903377/71131
+#EXTINF:-1 tvg-name="HBO 2 H265"tvg-id="HBO.2.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgY_TFsQfUoJOIKEExsnAjX0-0NYhbaqXe3yjtnBdGfnPR9Zf50feUHV1wQL_9bcuXR7JPYN45Unnj7Ht9VcAHNAzJDjIdV4CLErQYZ_GJul5Dq4_OwN_Vm1GkIgwEpSWaAFKQ01AbzpkhE4bJI7OY9vZm3GLVoVG4Lqp6pLN79ee9aUbRZe4xabgOm"group-title=''CANAIS'',HBO 2 H265
+http://mstv.shop/748996816/202903377/166803
+#EXTINF:-1 tvg-name="HBO FAMILY FHD"tvg-id="HBO.Family.HD.br"tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png"group-title=''CANAIS'',HBO FAMILY FHD
+http://mstv.shop/748996816/202903377/135450
+#EXTINF:-1 tvg-name="HBO FAMILY H265"tvg-id="HBO.Family.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPAwxnKgHLtaCKG1UP7Ofu6V5mOhlF4o9mWlvJap_UBM5Q2ARwkWI_Uq5MXHltvr0E60ljay8ibXwjstQKx_N43-27eApNup0RjQBK6QXKxuPIFEnl8-CYETQWklTXTTjSA2V7YbQnVJS49MA2wKbr-9JUbKqMFiW0dMKm8zzkWBolKUoUgeFKIrvt"group-title=''CANAIS'',HBO FAMILY H265
+http://mstv.shop/748996816/202903377/166804
+#EXTINF:-1 tvg-name="HBO MUNDI FHD"tvg-id="HBO.Mundi.HD.br"tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png"group-title=''CANAIS'',HBO MUNDI FHD
+http://mstv.shop/748996816/202903377/71137
+#EXTINF:-1 tvg-name="HBO MUNDI H265"tvg-id="HBO.Mundi.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEild6lvRY9UpKWuoCs60q3Q1Mrlo4Q9ZQmFMjSjJPIHkW1EYrjjJJmn5PUxI-Om63NmJ102KWzS15ryELeO5NB_Ax_9wSQC6dgQLcWQNbcXavHJ-jipzfn4gKYETnlrxeMyTzuzANIgdw9fvooP3tqDbMlVY4LJOdwZJ0FyVjEQ0o7WhRW-ffndX_b9"group-title=''CANAIS'',HBO MUNDI H265
+http://mstv.shop/748996816/202903377/166809
+#EXTINF:-1 tvg-name="HBO PLUS FHD"tvg-id="HBO.Plus.HD.br"tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png"group-title=''CANAIS'',HBO PLUS FHD
+http://mstv.shop/748996816/202903377/71132
+#EXTINF:-1 tvg-name="HBO PLUS H265"tvg-id="HBO.Plus.HD.br"tvg-logo="https://lh3.googleusercontent.com/-ALj0iny7Po4/YG3ygORG4LI/AAAAAAAAKMs/Rtaw4jBYa_g-ofOKqs1W10jpYTq6rdrkACLcBGAsYHQ/HBO%2B%252B%2BFHD%2BH.265.png"group-title=''CANAIS'',HBO PLUS H265
+http://mstv.shop/748996816/202903377/88442
+#EXTINF:-1 tvg-name="HBO POP FHD"tvg-id="HBO.Pop.HD.br"tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png"group-title=''CANAIS'',HBO POP FHD
+http://mstv.shop/748996816/202903377/71139
+#EXTINF:-1 tvg-name="HBO POP H265"tvg-id="HBO.Pop.HD.br"tvg-logo="https://lh3.googleusercontent.com/-rW0dyzjV5l4/YG3yoTrL8VI/AAAAAAAAKN8/I-9VU0dIfxMdLLGSLavsy4IBhm5vm2VUACLcBGAsYHQ/HBO%2BPOP%2BFHD%2B%2BH.265.png"group-title=''CANAIS'',HBO POP H265
+http://mstv.shop/748996816/202903377/88443
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD"tvg-id="HBO.Signature.HD.br"tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png"group-title=''CANAIS'',HBO SIGNATURE FHD
+http://mstv.shop/748996816/202903377/71133
+#EXTINF:-1 tvg-name="HBO SIGNATURE H265"tvg-id="HBO.Signature.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinYIkH9ituOONx19Z29dWSygUhMHbmwxTEtjOpOn4cNOwlZAXeSMTEt9b3ayMs0MQn2Na56TF1pCnx7VFu69m6SOgSYfYlNLBjS8aarCL94AdDrV9rcMN1mwy2TduT6qv78f8DAYqMBJK_ClkaDpWW9yIIDcEPfDfMZ_3kYlZTAvF9R-HPUjQGljaN"group-title=''CANAIS'',HBO SIGNATURE H265
+http://mstv.shop/748996816/202903377/166805
+#EXTINF:-1 tvg-name="HBO XTREME 4K"tvg-id="HBO.Xtreme.HD.br"tvg-logo="https://lh3.googleusercontent.com/-PFj7H96l-A8/YG2ofgBC2RI/AAAAAAAAKLc/jMOWiydYN-YvQA5x_5QI_RgIi_jcn_U6gCLcBGAsYHQ/HBO%2BXTREME%2B4K.png"group-title=''CANAIS'',HBO XTREME 4K
+http://mstv.shop/748996816/202903377/88428
+#EXTINF:-1 tvg-name="HBO XTREME H265"tvg-id="HBO.Xtreme.HD.br"tvg-logo="https://lh3.googleusercontent.com/-yjnMIE9-S3Q/YG3yoLG7MTI/AAAAAAAAKOA/FIt7q03V_AUknccu8Jh1pA5Q26h3fDP9wCLcBGAsYHQ/HBO%2BXTREME%2BH.265.png"group-title=''CANAIS'',HBO XTREME H265
+http://mstv.shop/748996816/202903377/88445
+#EXTINF:-1 tvg-name="HISTORY 2 FHD"tvg-id="History.HD.br"tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png"group-title=''CANAIS'',HISTORY 2 FHD
+http://mstv.shop/748996816/202903377/71576
+#EXTINF:-1 tvg-name="HISTORY 2 H265"tvg-id="History.2.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgWt4Rjm68i-xNw_-bEpXLK3PLcRpL_AzDLM3VZDbxt8XREuhMiwIwxl2AU_wmUJuCYrmXyqhCxNsBwEG9UXgo6X1zsXonQiD4i17JirrCYFLvP9daEHVGABbBSpKWyyTThQnF9UJpRWxZP2kOcFil4P1uJ7-_U-ViEeUunhbWN_lwHunuE0oON2Op4"group-title=''CANAIS'',HISTORY 2 H265
+http://mstv.shop/748996816/202903377/166850
+#EXTINF:-1 tvg-name="HISTORY FHD"tvg-id="HCB"tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png"group-title=''CANAIS'',HISTORY FHD
+http://mstv.shop/748996816/202903377/71575
+#EXTINF:-1 tvg-name="HISTORY H265"tvg-id="History.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJ3VdsFTw_qZxFtcC_hWLNU8R-fnrIgYVAny98Sfp4ABbJnM-JhB6ihvFJPWbMQEUuDSmHrjmBV1ghVlTlX5cQHqjhLuGLVFkDO6fbhhgmmJdwh5HwktizhlpmNBhB0djH2zg4pAq5TyXqQtRq5A1nzW-1NbbK3zL7zPIEj526D0TpHlIrQOnIKaz8"group-title=''CANAIS'',HISTORY H265
+http://mstv.shop/748996816/202903377/166806
+#EXTINF:-1 tvg-name="LIFETIME FHD"tvg-id="LIFEBHD"tvg-logo="https://lh3.googleusercontent.com/-K31dBmus6pg/YB1ujQWUNII/AAAAAAAAJ74/0no3jb6kDokClLqTjBaVdHbQKwC3yj_AwCLcBGAsYHQ/Lifetime.png"group-title=''CANAIS'',LIFETIME FHD
+http://mstv.shop/748996816/202903377/71357
+#EXTINF:-1 tvg-name="LIFETIME H265"tvg-id="LIFEBHD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi8v0A6ZTfeJm-g56kPWssK9Vc-rv1ixvhbQ33UHn73sdMB9Sr7pDwrE3IfYq9Gq9lVjfzWjlGW3XLeW5SvLhNWmGjs7AN6igT4IpHua62qiQt2gzfq1XRC4t4CBMh-0LUDlVevy9eSC2k2ebvr5HqJDiPPdoi0QfSseGwnX3QkWFpN5ICeVuOe812X"group-title=''CANAIS'',LIFETIME H265
+http://mstv.shop/748996816/202903377/166807
+#EXTINF:-1 tvg-name="MTV  H265"tvg-id="MTVB"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhjTDmQslnPOifjOUZ4DCdBa8wGojCjEuJADJ73xKkYJqox13Nj9hpLvNvBsWhcE1ktu-UWYfD5QzmrztuGcw2XNiBWdiDPPwXEaAe09FB6yAXleqYy8qSNa2tbIMuTNRy57SatvropgStstH16qr6XmW-JfRdDTwHjDZlYhSXaQ1G3AYCB6gI9ZF22"group-title=''CANAIS'',MTV  H265
+http://mstv.shop/748996816/202903377/166810
+#EXTINF:-1 tvg-name="MTV HD"tvg-id="MTVB"tvg-logo="https://lh3.googleusercontent.com/-p7dGCcpkCwU/YB1p7MbgFHI/AAAAAAAAJ7s/bWgP1i3hVCkDazNlO_V21rs7i0scqObYgCLcBGAsYHQ/MTV.png"group-title=''CANAIS'',MTV HD
+http://mstv.shop/748996816/202903377/71149
+#EXTINF:-1 tvg-name="MTV LIVE FHD"tvg-id="MTVLHDE"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhQqGOajPgIxufKf-YJ-5dcsOJzV6odHjVJTQHsAl5MSubksC9u_iJuSYYatn57ILR7ZXNx6YhmaJoAeUHhy8c0OUVvl3iTcMXtISYaZNzAc7P5OsinrvTHGCZUnS1uSjj6WN9XQjb11OImnl19g6hXFmwEBckypL0XQm8KSdoaCf7lIqTBso8auC9i"group-title=''CANAIS'',MTV LIVE FHD
+http://mstv.shop/748996816/202903377/168764
+#EXTINF:-1 tvg-name="MTV LIVE H265"tvg-id="MTVLHDE"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhYPyN8H0L9OLdr1dUWTReJ8WRzE4WsEjeqNK7ZISX2LSDM_Kh2kDYGTHQFbk9d-nMxiLuexYECUb_9H-MRcIomH9iKcA_Iz8Spj9EXIt4GaqL6aC1j7Z4DxgaRnkIi0d7bfdHEwl3JEbGO157SZAdS8CRxgT5ea6yEcu2ecoBcUhgg2sXTCyTGNZiZ"group-title=''CANAIS'',MTV LIVE H265
+http://mstv.shop/748996816/202903377/166852
+#EXTINF:-1 tvg-name="MULTISHOW 4K"tvg-id="MULTIHD"tvg-logo="https://lh3.googleusercontent.com/-pE1W22zfcPA/YG2oboTpHiI/AAAAAAAAKK4/TbloTY4Zr_E61qVaPVYPLCcD7KQStWyBQCLcBGAsYHQ/MULTISHOW%2B4K.png"group-title=''CANAIS'',MULTISHOW 4K
+http://mstv.shop/748996816/202903377/88417
+#EXTINF:-1 tvg-name="MULTISHOW H265"tvg-id="MULTIHD"tvg-logo="https://i.imgur.com/P8AS5Gd.png"group-title=''CANAIS'',MULTISHOW H265
+http://mstv.shop/748996816/202903377/168762
+#EXTINF:-1 tvg-name="NATGEO 4K"tvg-id="Nat.Geo.HD.br"tvg-logo="https://lh3.googleusercontent.com/-noKfasPvb-k/YG2odcYDo2I/AAAAAAAAKLI/awVr4L79qo0wGTBopIiFRPynSzja_UJXwCLcBGAsYHQ/NATGEO%2B4K.png"group-title=''CANAIS'',NATGEO 4K
+http://mstv.shop/748996816/202903377/122063
+#EXTINF:-1 tvg-name="NATGEO FHD"tvg-id="Nat.Geo.HD.br"tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png"group-title=''CANAIS'',NATGEO FHD
+http://mstv.shop/748996816/202903377/122064
+#EXTINF:-1 tvg-name="SYFY FHD"tvg-id="SYFYB"tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png"group-title=''CANAIS'',SYFY FHD
+http://mstv.shop/748996816/202903377/71153
+#EXTINF:-1 tvg-name="SYFY H265"tvg-id="SYFYB"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiIBjWvvDIUKow3tKMGU-6uwJItqNTYU98XsZx2BDJT74j_svXeLnpUAwm6ohnN3Qutg4sLjdXAjAoc8-1DgoP68krTWRDbX5cs-zFuqBJR7XyIN5-jgPLZlEYHvGxGWtZidcthH0vj5cA8DxgzO7qKJvxgRNH7X3B6ZV2f9A8fWU1QBPuJj2cxT7-t"group-title=''CANAIS'',SYFY H265
+http://mstv.shop/748996816/202903377/166822
+#EXTINF:-1 tvg-name="TBS FHD"tvg-id="BRZTBSH"tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png"group-title=''CANAIS'',TBS FHD
+http://mstv.shop/748996816/202903377/71154
+#EXTINF:-1 tvg-name="TBS H265"tvg-id="BRZTBSH"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh7-x5XYDsnHnm8jbXpxijnwCs40fgbr8_BYuYdpaosRZ1wkudJiSZDNVmPjm0YMmjCsmBw5jCToXviz8H34eDdusM5Fk4VeSEF9drg3pckuaGVcDZyu5VyvEwJVStIu1N9D6b3IZ5sLlrVBpTwhh_SOUymR8c-QXZEc5P6uqiMkkAvQsSTQqozTkIo"group-title=''CANAIS'',TBS H265
+http://mstv.shop/748996816/202903377/166823
+#EXTINF:-1 tvg-name="TC ACTION 4K"tvg-id="Telecine.Action.HD.br"tvg-logo="https://lh3.googleusercontent.com/-kdLiMCHI79A/YY5EIStYvGI/AAAAAAAAKug/YN0qehCVFKsmwFMBir49ANnxf9O-ZRxggCLcBGAsYHQ/telecine%2Baction%2B4k.png"group-title=''CANAIS'',TC ACTION 4K
+http://mstv.shop/748996816/202903377/136313
+#EXTINF:-1 tvg-name="TC ACTION H265"tvg-id="Telecine.Action.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8OUCXN57F96Aat7pbL1NLj8pRzZMmclTNcr7mNLehsrP-l9tLTOW3zFc4nxY02RJ196-5WP9stUWyJttGZ-ub-LdLpTq1qXoGYfr5B4BZTC1bQ3jjyko3floRVDAKpEixJxS3ghnxPWIrk_lYXAvxRxkkzdsVwFO1FwwwKEldCOs0hM5NrfZQmQ3p"group-title=''CANAIS'',TC ACTION H265
+http://mstv.shop/748996816/202903377/166824
+#EXTINF:-1 tvg-name="TC CULT FHD"tvg-id="Telecine.Cult.HD.br"tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png"group-title=''CANAIS'',TC CULT FHD
+http://mstv.shop/748996816/202903377/71072
+#EXTINF:-1 tvg-name="TC CULT H265"tvg-id="Telecine.Cult.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgSZi0el54AaRCQ3ghWjBojIdcrPR3kRXqR0cr2-wFrXYa__Ns1Nmz4z1Xvm70aWQZHopDasTdumLS7wv6TJXOgtEKg6CrwCkI5XzgPFzuYCMt67J8zONWnmzLkMR27fLjNaJgAqD_IOEWKfPH5u5EB879yy5eqYDyZe2VbPBZ9IiDvhSE1QIYaaw1A"group-title=''CANAIS'',TC CULT H265
+http://mstv.shop/748996816/202903377/166825
+#EXTINF:-1 tvg-name="TC FUN FHD"tvg-id="Telecine.Fun.HD.br"tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png"group-title=''CANAIS'',TC FUN FHD
+http://mstv.shop/748996816/202903377/71073
+#EXTINF:-1 tvg-name="TC FUN H265"tvg-id="Telecine.Fun.HD.br"tvg-logo="https://lh3.googleusercontent.com/-_hxS-6A76ok/YG3yjNT-ZaI/AAAAAAAAKNU/-yPnE4aYpWkzddE07b0dorf86g6AFS1qQCLcBGAsYHQ/TELECINE%2BFUN%2BFHD%2BDUAL%2BAUDIO%2BH.265.png"group-title=''CANAIS'',TC FUN H265
+http://mstv.shop/748996816/202903377/88456
+#EXTINF:-1 tvg-name="TC PIPOCA 4K"tvg-id="Telecine.Pipoca.HD.br"tvg-logo="https://lh3.googleusercontent.com/-pHM7hGLrbQw/YG2ogmDzJ6I/AAAAAAAAKLk/1ouv9QUi2zM3v7VytxI1Vc1wMgAGR146gCLcBGAsYHQ/TELECINE%2BPIPOCA%2B4K.png"group-title=''CANAIS'',TC PIPOCA 4K
+http://mstv.shop/748996816/202903377/88429
+#EXTINF:-1 tvg-name="TC PIPOCA H265"tvg-id="Telecine.Pipoca.HD.br"tvg-logo="https://lh3.googleusercontent.com/-FYZnOTMYwsA/YG3ym9bdp0I/AAAAAAAAKN0/ZtOh68Bu8wsxN96ZE5zy7zvn4FttxAW7wCLcBGAsYHQ/TELECINE%2BPIPOCA%2BDUAL%2BAUDIO%2BH.265.png"group-title=''CANAIS'',TC PIPOCA H265
+http://mstv.shop/748996816/202903377/88448
+#EXTINF:-1 tvg-name="TC PREMIUM 4K"tvg-id="Telecine.HD.br"tvg-logo="https://lh3.googleusercontent.com/-zEvGM3RsXUU/YG2oeQG_RNI/AAAAAAAAKLQ/2avBvOqVUXkx6XGU74ksoygBrzTL0-8WACLcBGAsYHQ/TELECINE%2BPREMIUM%2B4K.png"group-title=''CANAIS'',TC PREMIUM 4K
+http://mstv.shop/748996816/202903377/88423
+#EXTINF:-1 tvg-name="TC PREMIUM H265"tvg-id="Telecine.HD.br"tvg-logo="https://lh3.googleusercontent.com/-8NLCQCai3pk/YG3yl3gKv2I/AAAAAAAAKNs/CltbWYdRCUILeZX76GMGWJWbVnMVbWwNgCLcBGAsYHQ/TELECINE%2BPREMIUM%2BFHD%2BDUAL%2BAUDIO%2BH.265.png"group-title=''CANAIS'',TC PREMIUM H265
+http://mstv.shop/748996816/202903377/88450
+#EXTINF:-1 tvg-name="TC PREMIUM HD"tvg-id="Telecine.HD.br"tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png"group-title=''CANAIS'',TC PREMIUM HD
+http://mstv.shop/748996816/202903377/71390
+#EXTINF:-1 tvg-name="TC TOUCH FHD"tvg-id="Telecine.Touch.HD.br"tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png"group-title=''CANAIS'',TC TOUCH FHD
+http://mstv.shop/748996816/202903377/71076
+#EXTINF:-1 tvg-name="TC TOUCH H265"tvg-id="Telecine.Touch.HD.br"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiqulVh7WifKHc0uDojmHT-5dkSPjhcZWjtLabY32NxGokx4cFgcvnGsoa2a543MHbRGNI70Ls2ibe2yhPb8hYDhTYsrqrJEL_FUs3rCYHww1M9H1zfJwkq1BESdEC3B_pDGIqf92t89eyNQu_9085AmKnoHBK7iv9SGz2eVEvT1rd2wr1foCe1oEGR"group-title=''CANAIS'',TC TOUCH H265
+http://mstv.shop/748996816/202903377/166826
+#EXTINF:-1 tvg-name="TLC FHD"tvg-id="TLCBRHD"tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png"group-title=''CANAIS'',TLC FHD
+http://mstv.shop/748996816/202903377/135510
+#EXTINF:-1 tvg-name="TLC H265"tvg-id="TLCBRHD"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi50CCOnhK3qHYhLb2eKwjPuD4iA9-upsaif92Zc8UD4dyPaamWjPsoM0N1fZ1NvPmpwkkDFCL628Vo7qeoFWNMRKjYPPH3hOImnXjkH-TJFtmoA7bJzk2qGGsx4wCRRlR9aIq0rMQcfPckP4LfaReEPWo_VeLL_4Y1fqWttll2zje9cgR6pecFFO6b"group-title=''CANAIS'',TLC H265
+http://mstv.shop/748996816/202903377/166866
+#EXTINF:-1 tvg-name="TNT NOVELAS FHD"tvg-id="5STAP1"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjWAfcTEVP_WXYs-kN_xcmNQRFIeSO_eBN2bB-4zF1nBNX_-s7DAWpFOBYtq6IoYmzz4W5OK3g3UVHrLbGnEc_FBp3NjlttHxBPCSlDa8DfvXj1KMcFEjM398rXv3wrqZ9__aEp5KEb7Ih-pWDaANGmldMoqVJgicOTFnKPRquUL607XKjyi0Miy8dmFw8"group-title=''CANAIS'',TNT NOVELAS FHD
+http://mstv.shop/748996816/202903377/287219
+#EXTINF:-1 tvg-name="TNT NOVELAS HD"tvg-id="5STAP1"tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjWAfcTEVP_WXYs-kN_xcmNQRFIeSO_eBN2bB-4zF1nBNX_-s7DAWpFOBYtq6IoYmzz4W5OK3g3UVHrLbGnEc_FBp3NjlttHxBPCSlDa8DfvXj1KMcFEjM398rXv3wrqZ9__aEp5KEb7Ih-pWDaANGmldMoqVJgicOTFnKPRquUL607XKjyi0Miy8dmFw8"group-title=''CANAIS'',TNT NOVELAS HD
+http://mstv.shop/748996816/202903377/287220
+#EXTINF:-1 tvg-name="WOOHOO FHD"tvg-id="WOOHOOH"tvg-logo="https://lh3.googleusercontent.com/-zzCBNUjqF0U/YB2OTMRWeDI/AAAAAAAAJ9A/S7N8epO8YeIO3Tv-eAQcpd3f0_Ugu7V8ACLcBGAsYHQ/WOOHOO%2BTV.png"group-title=''CANAIS'',WOOHOO FHD
+http://mstv.shop/748996816/202903377/169907
+#EXTINF:-1 tvg-name="WOOHOO H265"tvg-id="WOOHOOH"tvg-logo="https://lh3.googleusercontent.com/-zzCBNUjqF0U/YB2OTMRWeDI/AAAAAAAAJ9A/S7N8epO8YeIO3Tv-eAQcpd3f0_Ugu7V8ACLcBGAsYHQ/WOOHOO%2BTV.png"group-title=''CANAIS'',WOOHOO H265
+http://mstv.shop/748996816/202903377/169908
