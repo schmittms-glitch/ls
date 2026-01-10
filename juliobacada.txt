@@ -1,109 +1,109 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="CANÇÃO NOVA HD"tvg-id="br#canc-o-nova-hd"group-title="https://img.onetv.plus/icones_channels/Cancao_Nova.png"tvg-logo=" RELIGIOSOS",CANÇÃO NOVA HD
+#EXTINF:-1 tvg-name="CANÇÃO NOVA HD"tvg-id="br#canc-o-nova-hd"tvg-logo="https://img.onetv.plus/icones_channels/Cancao_Nova.png"group-title="TODOS",CANÇÃO NOVA HD
 http://newoneblue.site:80/8574239498/5082291113/236024
-#EXTINF:-1 tvg-name="CANÇÃO NOVA FHD"tvg-id="br#canc-o-nova-hd"group-title="https://img.onetv.plus/icones_channels/Cancao_Nova.png"tvg-logo=" RELIGIOSOS",CANÇÃO NOVA FHD
+#EXTINF:-1 tvg-name="CANÇÃO NOVA FHD"tvg-id="br#canc-o-nova-hd"tvg-logo="https://img.onetv.plus/icones_channels/Cancao_Nova.png"group-title="TODOS",CANÇÃO NOVA FHD
 http://newoneblue.site:80/8574239498/5082291113/236023
-#EXTINF:-1 tvg-name="TERRA VIVA HD"tvg-id="TerraViva.br"group-title="https://img.onetv.plus/icones_channels/Terra_Viva.png"tvg-logo=" ABERTOS",TERRA VIVA HD
+#EXTINF:-1 tvg-name="TERRA VIVA HD"tvg-id="TerraViva.br"tvg-logo="https://img.onetv.plus/icones_channels/Terra_Viva.png"group-title="TODOS",TERRA VIVA HD
 http://newoneblue.site:80/8574239498/5082291113/676754
-#EXTINF:-1 tvg-name="TERRA VIVA FHD"tvg-id="TerraViva.br"group-title="https://img.onetv.plus/icones_channels/Terra_Viva.png"tvg-logo=" ABERTOS",TERRA VIVA FHD
+#EXTINF:-1 tvg-name="TERRA VIVA FHD"tvg-id="TerraViva.br"tvg-logo="https://img.onetv.plus/icones_channels/Terra_Viva.png"group-title="TODOS",TERRA VIVA FHD
 http://newoneblue.site:80/8574239498/5082291113/676753
-#EXTINF:-1 tvg-name="TV APARECIDA HD"tvg-id="br#tv-aparecida-hd"group-title="https://img.onetv.plus/icones_channels/TV_Aparecida_HD.png"tvg-logo=" RELIGIOSOS",TV APARECIDA HD
+#EXTINF:-1 tvg-name="TV APARECIDA HD"tvg-id="br#tv-aparecida-hd"tvg-logo="https://img.onetv.plus/icones_channels/TV_Aparecida_HD.png"group-title="TODOS",TV APARECIDA HD
 http://newoneblue.site:80/8574239498/5082291113/236038
-#EXTINF:-1 tvg-name="TV APARECIDA FHD"tvg-id="br#tv-aparecida-hd"group-title="https://img.onetv.plus/icones_channels/TV_Aparecida_HD.png"tvg-logo=" RELIGIOSOS",TV APARECIDA FHD
+#EXTINF:-1 tvg-name="TV APARECIDA FHD"tvg-id="br#tv-aparecida-hd"tvg-logo="https://img.onetv.plus/icones_channels/TV_Aparecida_HD.png"group-title="TODOS",TV APARECIDA FHD
 http://newoneblue.site:80/8574239498/5082291113/236044
-#EXTINF:-1 tvg-name="NOVO TEMPO HD"tvg-id="br#tv-novo-tempo-hd"group-title="https://img.onetv.plus/icones_channels/Novo_Tempo.png"tvg-logo=" RELIGIOSOS",NOVO TEMPO HD
+#EXTINF:-1 tvg-name="NOVO TEMPO HD"tvg-id="br#tv-novo-tempo-hd"tvg-logo="https://img.onetv.plus/icones_channels/Novo_Tempo.png"group-title="TODOS",NOVO TEMPO HD
 http://newoneblue.site:80/8574239498/5082291113/236030
-#EXTINF:-1 tvg-name="NOVO TEMPO FHD"tvg-id="br#tv-novo-tempo-hd"group-title="https://img.onetv.plus/icones_channels/Novo_Tempo.png"tvg-logo=" RELIGIOSOS",NOVO TEMPO FHD
+#EXTINF:-1 tvg-name="NOVO TEMPO FHD"tvg-id="br#tv-novo-tempo-hd"tvg-logo="https://img.onetv.plus/icones_channels/Novo_Tempo.png"group-title="TODOS",NOVO TEMPO FHD
 http://newoneblue.site:80/8574239498/5082291113/236029
-#EXTINF:-1 tvg-name="TV PAI ETERNO HD"tvg-id="br#tv-alterosa"group-title="https://img.onetv.plus/icones_channels/TV_Pai_Eterno.png"tvg-logo=" RELIGIOSOS",TV PAI ETERNO HD
+#EXTINF:-1 tvg-name="TV PAI ETERNO HD"tvg-id="br#tv-alterosa"tvg-logo="https://img.onetv.plus/icones_channels/TV_Pai_Eterno.png"group-title="TODOS",TV PAI ETERNO HD
 http://newoneblue.site:80/8574239498/5082291113/236046
-#EXTINF:-1 tvg-name="TV PAI ETERNO FHD"tvg-id="br#tv-alterosa"group-title="https://img.onetv.plus/icones_channels/TV_Pai_Eterno.png"tvg-logo=" RELIGIOSOS",TV PAI ETERNO FHD
+#EXTINF:-1 tvg-name="TV PAI ETERNO FHD"tvg-id="br#tv-alterosa"tvg-logo="https://img.onetv.plus/icones_channels/TV_Pai_Eterno.png"group-title="TODOS",TV PAI ETERNO FHD
 http://newoneblue.site:80/8574239498/5082291113/236045
-#EXTINF:-1 tvg-name="EVANGELIZAR HD"tvg-id="TVEvangelizar.br"group-title="https://img.onetv.plus/icones_channels/TV_EVANGELIZAR.png"tvg-logo=" RELIGIOSOS",EVANGELIZAR HD
+#EXTINF:-1 tvg-name="EVANGELIZAR HD"tvg-id="TVEvangelizar.br"tvg-logo="https://img.onetv.plus/icones_channels/TV_EVANGELIZAR.png"group-title="TODOS",EVANGELIZAR HD
 http://newoneblue.site:80/8574239498/5082291113/236026
-#EXTINF:-1 tvg-name="EVANGELIZAR FHD"tvg-id="TVEvangelizar.br"group-title="https://img.onetv.plus/icones_channels/TV_EVANGELIZAR.png"tvg-logo=" RELIGIOSOS",EVANGELIZAR FHD
+#EXTINF:-1 tvg-name="EVANGELIZAR FHD"tvg-id="TVEvangelizar.br"tvg-logo="https://img.onetv.plus/icones_channels/TV_EVANGELIZAR.png"group-title="TODOS",EVANGELIZAR FHD
 http://newoneblue.site:80/8574239498/5082291113/236025
-#EXTINF:-1 tvg-name="REDE VIDA HD"tvg-id="br#rede-vida-hd"group-title="https://img.onetv.plus/icones_channels/Rede_Vida_hd.png"tvg-logo=" RELIGIOSOS",REDE VIDA HD
+#EXTINF:-1 tvg-name="REDE VIDA HD"tvg-id="br#rede-vida-hd"tvg-logo="https://img.onetv.plus/icones_channels/Rede_Vida_hd.png"group-title="TODOS",REDE VIDA HD
 http://newoneblue.site:80/8574239498/5082291113/236041
-#EXTINF:-1 tvg-name="REDE VIDA FHD"tvg-id="br#rede-vida-hd"group-title="https://img.onetv.plus/icones_channels/Rede_Vida_hd.png"tvg-logo=" RELIGIOSOS",REDE VIDA FHD
+#EXTINF:-1 tvg-name="REDE VIDA FHD"tvg-id="br#rede-vida-hd"tvg-logo="https://img.onetv.plus/icones_channels/Rede_Vida_hd.png"group-title="TODOS",REDE VIDA FHD
 http://newoneblue.site:80/8574239498/5082291113/236042
-#EXTINF:-1 tvg-name="ESPN 1 HD"tvg-id="ESPN.us"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlgFW2vHqCvlC8XgcagMxM8ic_dSL-6X-ENKDDB_pNVh0Q.png"tvg-logo="⚽ ESPN",ESPN 1 HD
+#EXTINF:-1 tvg-name="ESPN 1 HD"tvg-id="ESPN.us"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlgFW2vHqCvlC8XgcagMxM8ic_dSL-6X-ENKDDB_pNVh0Q.png"group-title="TODOS",ESPN 1 HD
 http://newoneblue.site:80/8574239498/5082291113/437920
-#EXTINF:-1 tvg-name="ESPN 1 FHD"tvg-id="ESPN.us"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlgFW2vHqCvlC8XgcagMxM8ic_dSL-6X-ENKDDB_pNVh0Q.png"tvg-logo="⚽ ESPN",ESPN 1 FHD
+#EXTINF:-1 tvg-name="ESPN 1 FHD"tvg-id="ESPN.us"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlgFW2vHqCvlC8XgcagMxM8ic_dSL-6X-ENKDDB_pNVh0Q.png"group-title="TODOS",ESPN 1 FHD
 http://newoneblue.site:80/8574239498/5082291113/437918
-#EXTINF:-1 tvg-name="GLOBO GO - ANHANGUERA GOIANIA FHD"tvg-id="TVAnhangueraGoiania.br"group-title="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"tvg-logo=" GLOBO CAPITAL",GLOBO GO - ANHANGUERA GOIANIA FHD
+#EXTINF:-1 tvg-name="GLOBO GO - ANHANGUERA GOIANIA FHD"tvg-id="TVAnhangueraGoiania.br"tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"group-title="TODOS",GLOBO GO - ANHANGUERA GOIANIA FHD
 http://newoneblue.site:80/8574239498/5082291113/234218
-#EXTINF:-1 tvg-name="GLOBO GO - ANHANGUERA GOIANIA HD"tvg-id="TVAnhangueraGoiania.br"group-title="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"tvg-logo=" GLOBO CAPITAL",GLOBO GO - ANHANGUERA GOIANIA HD
+#EXTINF:-1 tvg-name="GLOBO GO - ANHANGUERA GOIANIA HD"tvg-id="TVAnhangueraGoiania.br"tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"group-title="TODOS",GLOBO GO - ANHANGUERA GOIANIA HD
 http://newoneblue.site:80/8574239498/5082291113/234219
-#EXTINF:-1 tvg-name="GLOBO SP - SÃO PAULO HD"tvg-id="TVGloboSaoPaulo.br"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlhVq89MTv-fms3bpc5PexGy5rXMb1_i2Ls3vE-5E-uYGw.png"tvg-logo=" GLOBO CAPITAL",GLOBO SP - SÃO PAULO HD
+#EXTINF:-1 tvg-name="GLOBO SP - SÃO PAULO HD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nlhVq89MTv-fms3bpc5PexGy5rXMb1_i2Ls3vE-5E-uYGw.png"group-title="TODOS",GLOBO SP - SÃO PAULO HD
 http://newoneblue.site:80/8574239498/5082291113/234262
-#EXTINF:-1 tvg-name="GLOBO SP - SAO PAULO FHD"tvg-id="TVGloboSaoPaulo.br"group-title="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"tvg-logo=" GLOBO CAPITAL",GLOBO SP - SAO PAULO FHD
+#EXTINF:-1 tvg-name="GLOBO SP - SAO PAULO FHD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png"group-title="TODOS",GLOBO SP - SAO PAULO FHD
 http://newoneblue.site:80/8574239498/5082291113/234261
-#EXTINF:-1 tvg-name="GLOBO NEWS HD"tvg-id="br#globo-news-hd"group-title="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png"tvg-logo="✅ NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-name="GLOBO NEWS HD"tvg-id="br#globo-news-hd"tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png"group-title="TODOS",GLOBO NEWS HD
 http://newoneblue.site:80/8574239498/5082291113/234180
-#EXTINF:-1 tvg-name="GLOBO NEWS FHD"tvg-id="br#globo-news-hd"group-title="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png"tvg-logo="✅ NOTICIAS",GLOBO NEWS FHD
+#EXTINF:-1 tvg-name="GLOBO NEWS FHD"tvg-id="br#globo-news-hd"tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png"group-title="TODOS",GLOBO NEWS FHD
 http://newoneblue.site:80/8574239498/5082291113/234179
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD"tvg-id="JPNews.br"group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png"tvg-logo="✅ NOTICIAS",JOVEM PAN NEWS HD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD"tvg-id="JPNews.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png"group-title="TODOS",JOVEM PAN NEWS HD
 http://newoneblue.site:80/8574239498/5082291113/234186
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD"tvg-id="JPNews.br"group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png"tvg-logo="✅ NOTICIAS",JOVEM PAN NEWS FHD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD"tvg-id="JPNews.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png"group-title="TODOS",JOVEM PAN NEWS FHD
 http://newoneblue.site:80/8574239498/5082291113/234185
-#EXTINF:-1 tvg-name="RECORD NEWS HD"tvg-id="RecordNews.br"group-title="https://img.onetv.plus/icones_channels/Record_News_HD.png"tvg-logo="✅ NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-name="RECORD NEWS HD"tvg-id="RecordNews.br"tvg-logo="https://img.onetv.plus/icones_channels/Record_News_HD.png"group-title="TODOS",RECORD NEWS HD
 http://newoneblue.site:80/8574239498/5082291113/234192
-#EXTINF:-1 tvg-name="RECORD NEWS FHD"tvg-id="RecordNews.br"group-title="https://img.onetv.plus/icones_channels/Record_News_HD.png"tvg-logo="✅ NOTICIAS",RECORD NEWS FHD
+#EXTINF:-1 tvg-name="RECORD NEWS FHD"tvg-id="RecordNews.br"tvg-logo="https://img.onetv.plus/icones_channels/Record_News_HD.png"group-title="TODOS",RECORD NEWS FHD
 http://newoneblue.site:80/8574239498/5082291113/234191
-#EXTINF:-1 tvg-name="CNN BRASIL HD"tvg-id="br#cnn-brasil-1"group-title="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png"tvg-logo="✅ NOTICIAS",CNN BRASIL HD
+#EXTINF:-1 tvg-name="CNN BRASIL HD"tvg-id="br#cnn-brasil-1"tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png"group-title="TODOS",CNN BRASIL HD
 http://newoneblue.site:80/8574239498/5082291113/234155
-#EXTINF:-1 tvg-name="CNN BRASIL FHD"tvg-id="br#cnn-brasil-1"group-title="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png"tvg-logo="✅ NOTICIAS",CNN BRASIL FHD
+#EXTINF:-1 tvg-name="CNN BRASIL FHD"tvg-id="br#cnn-brasil-1"tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png"group-title="TODOS",CNN BRASIL FHD
 http://newoneblue.site:80/8574239498/5082291113/234154
-#EXTINF:-1 tvg-name="RECORD GO - GOÍAS HD"tvg-id="br#record-goias"group-title="https://img.onetv.plus/icones_channels/Record_HD.png"tvg-logo=" RECORD",RECORD GO - GOÍAS HD
+#EXTINF:-1 tvg-name="RECORD GO - GOÍAS HD"tvg-id="br#record-goias"tvg-logo="https://img.onetv.plus/icones_channels/Record_HD.png"group-title="TODOS",RECORD GO - GOÍAS HD
 http://newoneblue.site:80/8574239498/5082291113/235885
-#EXTINF:-1 tvg-name="RECORD GO - GOÍAS FHD"tvg-id="br#record-goias"group-title="https://img.onetv.plus/icones_channels/Record_HD.png"tvg-logo=" RECORD",RECORD GO - GOÍAS FHD
+#EXTINF:-1 tvg-name="RECORD GO - GOÍAS FHD"tvg-id="br#record-goias"tvg-logo="https://img.onetv.plus/icones_channels/Record_HD.png"group-title="TODOS",RECORD GO - GOÍAS FHD
 http://newoneblue.site:80/8574239498/5082291113/235886
-#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA HD"tvg-id="br#sbt-goiania-tv-serra-dourada"group-title="https://img.onetv.plus/icones_channels/SBT_Campinas.png"tvg-logo=" SBT",SBT GO - SERRA DOURADA HD
+#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA HD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title=" SBT",SBT GO - SERRA DOURADA HD
 http://newoneblue.site:80/8574239498/5082291113/235967
-#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA FHD"tvg-id="br#sbt-goiania-tv-serra-dourada"group-title="https://img.onetv.plus/icones_channels/SBT_Campinas.png"tvg-logo=" SBT",SBT GO - SERRA DOURADA FHD
+#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA FHD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title=" SBT",SBT GO - SERRA DOURADA FHD
 http://newoneblue.site:80/8574239498/5082291113/235966
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD"tvg-id="AnimalPlanet.br"group-title="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png"tvg-logo="⏩ DOCUMENTÁRIOS",ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD"tvg-id="AnimalPlanet.br"tvg-logo="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png"group-title="TODOS",ANIMAL PLANET HD
 http://newoneblue.site:80/8574239498/5082291113/437956
-#EXTINF:-1 tvg-name="ANIMAL PLANET FHD"tvg-id="AnimalPlanet.br"group-title="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png"tvg-logo="⏩ DOCUMENTÁRIOS",ANIMAL PLANET FHD
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD"tvg-id="AnimalPlanet.br"tvg-logo="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png"group-title="TODOS",ANIMAL PLANET FHD
 http://newoneblue.site:80/8574239498/5082291113/437954
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD"tvg-id="br#discovery-hd"group-title="https://img.onetv.plus/icones_channels/DISCOVERY_HD.png"tvg-logo="⏩ DISCOVERY",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD"tvg-id="br#discovery-hd"tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_HD.png"group-title="TODOS",DISCOVERY CHANNEL HD
 http://newoneblue.site:80/8574239498/5082291113/437991
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD"tvg-id="br#discovery-hd"group-title="https://img.onetv.plus/icones_channels/DISCOVERY_HD.png"tvg-logo="⏩ DISCOVERY",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD"tvg-id="br#discovery-hd"tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_HD.png"group-title="TODOS",DISCOVERY CHANNEL FHD
 http://newoneblue.site:80/8574239498/5082291113/437989
-#EXTINF:-1 tvg-name="DISCOVERY H&H HD"tvg-id="DiscoveryHomeHealth.br"group-title="https://cdn.mitvstatic.com/channels/br_discovery-home-health-hd_m.png"tvg-logo="⏩ DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-name="DISCOVERY H&H HD"tvg-id="DiscoveryHomeHealth.br"tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-home-health-hd_m.png"group-title="TODOS",DISCOVERY H&H HD
 http://newoneblue.site:80/8574239498/5082291113/438003
-#EXTINF:-1 tvg-name="DISCOVERY H&H FHD"tvg-id="DiscoveryHomeHealth.br"group-title="https://cdn.mitvstatic.com/channels/br_discovery-home-health-hd_m.png"tvg-logo="⏩ DISCOVERY",DISCOVERY H&H FHD
+#EXTINF:-1 tvg-name="DISCOVERY H&H FHD"tvg-id="DiscoveryHomeHealth.br"tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-home-health-hd_m.png"group-title="TODOS",DISCOVERY H&H FHD
 http://newoneblue.site:80/8574239498/5082291113/438001
-#EXTINF:-1 tvg-name="DISCOVERY WORLD HD"tvg-id="DiscoveryWorld.br"group-title="https://img.onetv.plus/icones_channels/DISCOVERY_WORLD.png"tvg-logo="⏩ DISCOVERY",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD HD"tvg-id="DiscoveryWorld.br"tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_WORLD.png"group-title="TODOS",DISCOVERY WORLD HD
 http://newoneblue.site:80/8574239498/5082291113/438027
-#EXTINF:-1 tvg-name="DISCOVERY WORLD FHD"tvg-id="DiscoveryWorld.br"group-title="https://img.onetv.plus/icones_channels/DISCOVERY_WORLD.png"tvg-logo="⏩ DISCOVERY",DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD FHD"tvg-id="DiscoveryWorld.br"tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_WORLD.png"group-title="TODOS",DISCOVERY WORLD FHD
 http://newoneblue.site:80/8574239498/5082291113/438025
-#EXTINF:-1 tvg-name="HISTORY CHANNEL HD"tvg-id="br#history-channel-hd"group-title="https://img.onetv.plus/icones_channels/History_HD.png"tvg-logo="⏩ DOCUMENTÁRIOS",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-name="HISTORY CHANNEL HD"tvg-id="br#history-channel-hd"tvg-logo="https://img.onetv.plus/icones_channels/History_HD.png"group-title="TODOS",HISTORY CHANNEL HD
 http://newoneblue.site:80/8574239498/5082291113/437984
-#EXTINF:-1 tvg-name="HISTORY CHANNEL FHD"tvg-id="br#history-channel-hd"group-title="https://img.onetv.plus/icones_channels/History_HD.png"tvg-logo="⏩ DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-name="HISTORY CHANNEL FHD"tvg-id="br#history-channel-hd"tvg-logo="https://img.onetv.plus/icones_channels/History_HD.png"group-title="TODOS",HISTORY CHANNEL FHD
 http://newoneblue.site:80/8574239498/5082291113/437982
-#EXTINF:-1 tvg-name="A&E HD"tvg-id="AE.br"group-title="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcW36OXUttjM91IxUUafBOQ1F0cxa3_XDeIaB9r-JpoSMrTj1k5DoWe9o4MOfdDxGmw.png"tvg-logo="⏩ FILMES E SERIES",A&E HD
+#EXTINF:-1 tvg-name="A&E HD"tvg-id="AE.br"tvg-logo="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcW36OXUttjM91IxUUafBOQ1F0cxa3_XDeIaB9r-JpoSMrTj1k5DoWe9o4MOfdDxGmw.png"group-title="TODOS",A&E HD
 http://newoneblue.site:80/8574239498/5082291113/438131
-#EXTINF:-1 tvg-name="A&E FHD"tvg-id="AE.br"group-title="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcW36OXUttjM91IxUUafBOQ1F0cxa3_XDeIaB9r-JpoSMrTj1k5DoWe9o4MOfdDxGmw.png"tvg-logo="⏩ FILMES E SERIES",A&E FHD
+#EXTINF:-1 tvg-name="A&E FHD"tvg-id="AE.br"tvg-logo="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcW36OXUttjM91IxUUafBOQ1F0cxa3_XDeIaB9r-JpoSMrTj1k5DoWe9o4MOfdDxGmw.png"group-title="TODOS",A&E FHD
 http://newoneblue.site:80/8574239498/5082291113/438129
-#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"group-title="https://img.onetv.plus/icones_channels/SPACE_HD.png"tvg-logo="⏩ FILMES E SERIES",SPACE HD
+#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"tvg-logo="https://img.onetv.plus/icones_channels/SPACE_HD.png"group-title="TODOS",SPACE HD
 http://newoneblue.site:80/8574239498/5082291113/438191
-#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"group-title="https://img.onetv.plus/icones_channels/SPACE_HD.png"tvg-logo="⏩ FILMES E SERIES",SPACE FHD
+#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"tvg-logo="https://img.onetv.plus/icones_channels/SPACE_HD.png"group-title="TODOS",SPACE FHD
 http://newoneblue.site:80/8574239498/5082291113/438188
-#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="br#telecine-cult-hd"group-title="https://img.onetv.plus/icones_channels/Telecine_Cult_HD.png"tvg-logo="⏩ TELECINE",TELECINE CULT HD
+#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="br#telecine-cult-hd"tvg-logo="https://img.onetv.plus/icones_channels/Telecine_Cult_HD.png"group-title="TODOS",TELECINE CULT HD
 http://newoneblue.site:80/8574239498/5082291113/438053
-#EXTINF:-1 tvg-name="TELECINE CULT FHD"tvg-id="br#telecine-cult-hd"group-title="https://img.onetv.plus/icones_channels/Telecine_Cult_HD.png"tvg-logo="⏩ TELECINE",TELECINE CULT FHD
+#EXTINF:-1 tvg-name="TELECINE CULT FHD"tvg-id="br#telecine-cult-hd"tvg-logo="https://img.onetv.plus/icones_channels/Telecine_Cult_HD.png"group-title="TODOS",TELECINE CULT FHD
 http://newoneblue.site:80/8574239498/5082291113/438051
-#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="PremiereClubes.br"group-title="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png"tvg-logo="⚽ PREMIERE",PREMIERE CLUBES HD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="PremiereClubes.br"tvg-logo="http://newoneblue.site:80/images/PEjMt3TJ1iNQ3EcLOVLNcQJzrG9KsNWuavngOvKpIKRR9bjiuEx4Z3n0VkQLLZfvqzqoDLxK8QZUnub0UvS6bQ.png"group-title="TODOS",PREMIERE CLUBES HD
 http://newoneblue.site:80/8574239498/5082291113/236244
-#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD"tvg-id="PremiereClubes.br"group-title="http://newoneblue.site:80/images/xg9VryPrdMyc3xEebry7zueB-RqNVxHRKN6I6RBpU_pB5Y9-irJ94yPaOoKgGDsTxUqiP7KSubBq44RKHaPW5g.png"tvg-logo="⚽ PREMIERE",PREMIERE CLUBES FHD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD"tvg-id="PremiereClubes.br"tvg-logo="http://newoneblue.site:80/images/xg9VryPrdMyc3xEebry7zueB-RqNVxHRKN6I6RBpU_pB5Y9-irJ94yPaOoKgGDsTxUqiP7KSubBq44RKHaPW5g.png"group-title="TODOS",PREMIERE CLUBES FHD
 http://newoneblue.site:80/8574239498/5082291113/236242
-#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="br#premiere-2"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"tvg-logo="⚽ PREMIERE",PREMIERE 2 HD
+#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="br#premiere-2"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"group-title="TODOS",PREMIERE 2 HD
 http://newoneblue.site:80/8574239498/5082291113/236250
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD"tvg-id="br#premiere-2"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"tvg-logo="⚽ PREMIERE",PREMIERE 2 FHD
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD"tvg-id="br#premiere-2"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"group-title="TODOS",PREMIERE 2 FHD
 http://newoneblue.site:80/8574239498/5082291113/236248
-#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="br#premiere-3"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"tvg-logo="⚽ PREMIERE",PREMIERE 3 HD
+#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="br#premiere-3"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"group-title="TODOS",PREMIERE 3 HD
 http://newoneblue.site:80/8574239498/5082291113/236256
-#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="br#premiere-3"group-title="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"tvg-logo="⚽ PREMIERE",PREMIERE 3 FHD
+#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="br#premiere-3"tvg-logo="http://newoneblue.site:80/images/bHkDorbXA9TcmGupg-FKRLl7h11-vcqQTaVpTte6nljMX94gGpXFnmbqdUrf0URwXy1-18WbT4v_PjX9Vgv3_g.png"group-title="TODOS",PREMIERE 3 FHD
 http://newoneblue.site:80/8574239498/5082291113/236254
