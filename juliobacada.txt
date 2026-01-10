@@ -59,9 +59,9 @@ http://newoneblue.site:80/8574239498/5082291113/234154
 http://newoneblue.site:80/8574239498/5082291113/235885
 #EXTINF:-1 tvg-name="RECORD GO - GOÍAS FHD"tvg-id="br#record-goias"tvg-logo="https://img.onetv.plus/icones_channels/Record_HD.png"group-title="TODOS",RECORD GO - GOÍAS FHD
 http://newoneblue.site:80/8574239498/5082291113/235886
-#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA HD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title=" SBT",SBT GO - SERRA DOURADA HD
+#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA HD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title="TODOS",SBT GO - SERRA DOURADA HD
 http://newoneblue.site:80/8574239498/5082291113/235967
-#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA FHD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title=" SBT",SBT GO - SERRA DOURADA FHD
+#EXTINF:-1 tvg-name="SBT GO - SERRA DOURADA FHD"tvg-id="br#sbt-goiania-tv-serra-dourada"tvg-logo="https://img.onetv.plus/icones_channels/SBT_Campinas.png"group-title="TODOS",SBT GO - SERRA DOURADA FHD
 http://newoneblue.site:80/8574239498/5082291113/235966
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD"tvg-id="AnimalPlanet.br"tvg-logo="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png"group-title="TODOS",ANIMAL PLANET HD
 http://newoneblue.site:80/8574239498/5082291113/437956
