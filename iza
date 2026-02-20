@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS",GLOBO SP HD
+http://mstv1-26.shop/288235209/693202273/71496
+#EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO SP H265" tvg-logo="https://lh3.googleusercontent.com/-KMuBZM0Se3w/YG3ygTPgTLI/AAAAAAAAKM0/M4hmbSAtGYkA3iePHeEaIS49f2nHOS3wwCLcBGAsYHQ/GLOBO%2BFHD%2BSP%2BH.265.png" group-title="CANAIS",GLOBO SP H265
+http://mstv1-26.shop/288235209/693202273/88462
+#EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO SP 4K" tvg-logo="https://lh3.googleusercontent.com/-LplNSODD5mg/YG2oh_rchJI/AAAAAAAAKLs/a3lcSRhEyjoQNrVWt80naFPVvGzZK0m0gCLcBGAsYHQ/GLOBO%2B4K.png" group-title="CANAIS",GLOBO SP 4K
+http://mstv1-26.shop/288235209/693202273/88431
+#EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS",GLOBO TV ANHANGUERA HD
+http://mstv1-26.shop/288235209/693202273/71395
+#EXTINF:-1 tvg-id="RGSPHD" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS",GLOBO TV ANHANGUERA FHD
+http://mstv1-26.shop/288235209/693202273/164240
+#EXTINF:-1 tvg-id="GLN" tvg-name="GLOBO NEWS HDÂ¹" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="CANAIS",GLOBO NEWS HDÂ¹
+http://mstv1-26.shop/288235209/693202273/100794
+#EXTINF:-1 tvg-id="GLN" tvg-name="GLOBO NEWS H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiL47j_Zq2NB4OQn2Rl-DHA6jxo1SmV-9AguDdLb0Kh0SDErAL5FXdozGBdABvLAampKEmN1Di3Zlo_3FHe3wUrCiznyPHn9zYHAWjwF4BXGdBMfC54023f8Cn7cphPHC1BL9yuUW-Or77p1LXcoTc9xlD82nim5IMaSmL5o1HvbuGnQxw8sCzsFjmy" group-title="CANAIS",GLOBO NEWS H265
+http://mstv1-26.shop/288235209/693202273/166801
+#EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s300/sbt.png" group-title="CANAIS",SBT HD
+http://mstv1-26.shop/288235209/693202273/168660
+#EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT 4K" tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2B4K%2B.png" group-title="CANAIS",SBT 4K
+http://mstv1-26.shop/288235209/693202273/88414
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORD SP HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS",RECORD SP HD
+http://mstv1-26.shop/288235209/693202273/71038
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORD SP 4K " tvg-logo="https://lh3.googleusercontent.com/-8cciQ3FeGVI/YG2okEeyodI/AAAAAAAAKMA/YnmGz7_AwNIdQ0lvlTQBak1M0-VePlmhACLcBGAsYHQ/RECORD%2B4K.png" group-title="CANAIS",RECORD SP 4K 
+http://mstv1-26.shop/288235209/693202273/88436
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORD TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS",RECORD TV GOIANIA HD
+http://mstv1-26.shop/288235209/693202273/71378
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="CANAIS",RECORD NEWS HD
+http://mstv1-26.shop/288235209/693202273/71429
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND SP 4K" tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png" group-title="CANAIS",BAND SP 4K
+http://mstv1-26.shop/288235209/693202273/88409
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS",BAND SP HD
+http://mstv1-26.shop/288235209/693202273/71480
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS",BAND NEWS HD
+http://mstv1-26.shop/288235209/693202273/71428
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="BAND NEWS H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhonbKH5w0XLIk1EIxB_dZjc9sPIF3UaKGS5sw-NjABEPFy4EsJQClT5AbqBYuxh52GCmgJpA710-JuVdAT3rtt-GNsj7qBQLBzyJyfAHb-q6FCtdyGJBYeiCBYtpu9S1prEWtl125e4pO7KaeBtxHenlHjjYjvQJ8vox6U5j0rx9VLlC_VJbF3-kLx" group-title="CANAIS",BAND NEWS H265
+http://mstv1-26.shop/288235209/693202273/166786
+#EXTINF:-1 tvg-id="RDVCASC" tvg-name="REDE VIDA HD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS",REDE VIDA HD
+http://mstv1-26.shop/288235209/693202273/71257
+#EXTINF:-1 tvg-id="RDVCASC" tvg-name="REDE VIDA FHD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS",REDE VIDA FHD
+http://mstv1-26.shop/288235209/693202273/169929
+#EXTINF:-1 tvg-id="RSUPERH" tvg-name="REDE SUPER HD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="CANAIS",REDE SUPER HD
+http://mstv1-26.shop/288235209/693202273/96334
+#EXTINF:-1 tvg-id="PORVEHD" tvg-name="REDETV HDÂ¹" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="CANAIS",REDETV HDÂ¹
+http://mstv1-26.shop/288235209/693202273/71553
+#EXTINF:-1 tvg-id="PORVEHD" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="CANAIS",REDETV 4K
+http://mstv1-26.shop/288235209/693202273/88425
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AGRO CANAL HD" tvg-logo="https://lh3.googleusercontent.com/-xx7-wrlToMU/YT05Xhm5F9I/AAAAAAAAKk4/QGHAashITiEF14i5qpjiQLj0cfWPDZQOACLcBGAsYHQ/agro%2Bcanal.png" group-title="CANAIS",AGRO CANAL HD
+http://mstv1-26.shop/288235209/693202273/92986
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="CANAL BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="CANAIS",CANAL BRASIL HD
+http://mstv1-26.shop/288235209/693202273/71471
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="CANAL BRASIL FHD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="CANAIS",CANAL BRASIL FHD
+http://mstv1-26.shop/288235209/693202273/168922
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA HD" tvg-logo="https://1.bp.blogspot.com/-V9_vn_7Znh4/YBxY10r3GdI/AAAAAAAAJx0/cWs8X2rtZV8g9Wm8GjmzB1oA3rhXUHNkQCLcBGAsYHQ/s0/FUTURA.png" group-title="CANAIS",FUTURA HD
+http://mstv1-26.shop/288235209/693202273/168916
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpA-aor1C_xw3HTVuyboAhDWHLGnnuxZEvccBu6zfAIvAHq-EDp6z8VpzgLlCp4E-rrkXe_U7vcLGfmcd3aQODFX2Mq4TbHQ_dX4k8zmUV1jkY3QcBOI97rNodYWXBaBHM4mjzt0_40XQQow3dYN-GAzTwg-8d17a-mDD8fzx4NRO8MZhJ9r0oygpo" group-title="CANAIS",FUTURA H265
+http://mstv1-26.shop/288235209/693202273/166800
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="CANAIS",CANAL DO BOI
+http://mstv1-26.shop/288235209/693202273/71173
+#EXTINF:-1 tvg-id="GAZHD" tvg-name="GAZETA SP HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS",GAZETA SP HD
+http://mstv1-26.shop/288235209/693202273/168918
+#EXTINF:-1 tvg-id="GAZHD" tvg-name="GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS",GAZETA SP FHD
+http://mstv1-26.shop/288235209/693202273/71489
+#EXTINF:-1 tvg-id="VIVA" tvg-name="TERRA VIVA SD" tvg-logo="https://lh3.googleusercontent.com/-1Zg8V5Pfxd4/YB1Gnnx4hEI/AAAAAAAAJ5o/Yct-RuSsxvwjmygNXX0lpz46Phq469KmQCLcBGAsYHQ/Terra%2BViva.png" group-title="CANAIS",TERRA VIVA SD
+http://mstv1-26.shop/288235209/693202273/71276
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS",TV BRASIL HD
+http://mstv1-26.shop/288235209/693202273/168911
+#EXTINF:-1 tvg-id="TVBRHD" tvg-name="TV BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS",TV BRASIL FHD
+http://mstv1-26.shop/288235209/693202273/71172
+#EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA HD" tvg-logo="https://1.bp.blogspot.com/-vWSU2rH6x58/YBxY9cMa5UI/AAAAAAAAJzw/hZL4Dgfm3Hcmpk5SPrUhHdZbzL3NAeTogCLcBGAsYHQ/s0/VIVA.png" group-title="CANAIS",VIVA HD
+http://mstv1-26.shop/288235209/693202273/71401
+#EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjWDLWL1v7zfv_P3WVNIneAQB8FF5qt9mILN917iCEKIBnQP993JVWEnI8_7bOWw5e1Gs0cX4Ose06DizwakQr3TEcjnN7WIteClv_RFMtJ_JgMnHBuaGHqr-IKD8R4-DMMCgiDT09vsqnH9KtPrDhTgUUwbK183RfVFFWt_QVrcMinhMEMApioUU28" group-title="CANAIS",VIVA H265
+http://mstv1-26.shop/288235209/693202273/166831
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV APARECIDA HD" tvg-logo="https://lh3.googleusercontent.com/-jxrYBhdc3Gg/YB7u9f2qpkI/AAAAAAAAKDg/qWySSHpGwgMk54cczTwspzh_2Wj2W6fUwCLcBGAsYHQ/TV%2BAparecida.png" group-title="CANAIS",TV APARECIDA HD
+http://mstv1-26.shop/288235209/693202273/71283
