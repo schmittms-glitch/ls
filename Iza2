@@ -1,0 +1,183 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="TV ANHANGUERA | GOIAS HD"tvg-id="TVAnhangueraGoiania.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/140-b-1711754590760.png"group-title="GLOBO | CENTRO-OESTE",TV ANHANGUERA | GOIAS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19432.m3u8
+#EXTINF:-1 tvg-name="TV ANHANGUERA | GOIAS FHD"tvg-id="TVAnhangueraGoiania.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/140-b-1711754590760.png"group-title="GLOBO | CENTRO-OESTE",TV ANHANGUERA | GOIAS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19069.m3u8
+#EXTINF:-1 tvg-name="GLOBO SP HD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/100-b-1711751988692.png"group-title="GLOBO | SUDESTE",GLOBO SP HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19429.m3u8
+#EXTINF:-1 tvg-name="GLOBO SP FHD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/100-b-1711751988692.png"group-title="GLOBO | SUDESTE",GLOBO SP FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19430.m3u8
+#EXTINF:-1 tvg-name="GLOBO HD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3905-b-1711752218483.png"group-title="COPA DO MUNDO 2026",GLOBO HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/707378.m3u8
+#EXTINF:-1 tvg-name="GLOBO FHD"tvg-id="TVGloboSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3905-b-1711752218483.png"group-title="COPA DO MUNDO 2026",GLOBO FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/707379.m3u8
+#EXTINF:-1 tvg-name="SPORTV HD¹"tvg-id="SporTV.br"tvg-logo="http://img.hzplay.fun/logos/outros/sportv-hd.jpg"group-title="COPA DO MUNDO 2026",SPORTV HD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816880.m3u8
+#EXTINF:-1 tvg-name="SPORTV FHD¹"tvg-id="SporTV.br"tvg-logo="http://img.hzplay.fun/logos/outros/sportv-hd.jpg"group-title="COPA DO MUNDO 2026",SPORTV FHD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816881.m3u8
+#EXTINF:-1 tvg-name="CAZE TV HD"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1626-b-1711902472726.jpeg"group-title="COPA DO MUNDO 2026",CAZE TV HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/816882.m3u8
+#EXTINF:-1 tvg-name="GE TV HD¹"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4536-b-1713112029920.jpg"group-title="COPA DO MUNDO 2026",GE TV HD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816884.m3u8
+#EXTINF:-1 tvg-name="GE TV FHD¹"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4536-b-1713112029920.jpg"group-title="COPA DO MUNDO 2026",GE TV FHD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816885.m3u8
+#EXTINF:-1 tvg-name="GE TV 4K¹"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4536-b-1713112029920.jpg"group-title="COPA DO MUNDO 2026",GE TV 4K¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816886.m3u8
+#EXTINF:-1 tvg-name="SBT HD¹"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="COPA DO MUNDO 2026",SBT HD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/714403.m3u8
+#EXTINF:-1 tvg-name="SBT FHD¹"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="COPA DO MUNDO 2026",SBT FHD¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/714402.m3u8
+#EXTINF:-1 tvg-name="NSPORTS HD"tvg-id="NSports.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/500-b-1711903725137.jpg"group-title="COPA DO MUNDO 2026",NSPORTS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/250228.m3u8
+#EXTINF:-1 tvg-name="NSPORTS FHD"tvg-id="NSports.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/500-b-1711903725137.jpg"group-title="COPA DO MUNDO 2026",NSPORTS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/250229.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV¹ "tvg-id=""tvg-logo="http://st1.horizonplay.io:8080/icon/5017-b-1781293566067.png"group-title="COPA DO MUNDO 2026",PT: SPORT TV¹
+http://mshz26.xyz:80/live/Mschmitt/55103540/816887.m3u8
+#EXTINF:-1 tvg-name="SBT HD"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="SBT",SBT HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19316.m3u8
+#EXTINF:-1 tvg-name="SBT FHD"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="SBT",SBT FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19113.m3u8
+#EXTINF:-1 tvg-name="SBT SP HD"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="SBT",SBT SP HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/707386.m3u8
+#EXTINF:-1 tvg-name="SBT SP FHD"tvg-id="SBTNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4367-b-1711828151047.png"group-title="SBT",SBT SP FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/707387.m3u8
+#EXTINF:-1 tvg-name="BAND SP HD"tvg-id="BandSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4304-b-1711829028366.png"group-title="BAND",BAND SP HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19158.m3u8
+#EXTINF:-1 tvg-name="BAND SP FHD"tvg-id="BandSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4304-b-1711829028366.png"group-title="BAND",BAND SP FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19092.m3u8
+#EXTINF:-1 tvg-name="BAND GOIAS HD	"tvg-id="br#band-tv-goiania-hd"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4344-s-1711828759016.png"group-title="BAND",BAND GOIAS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/804695.m3u8
+#EXTINF:-1 tvg-name="RECORD SP HD"tvg-id="RecordTVSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/693-b-1711829623693.png"group-title="RECORD",RECORD SP HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/754.m3u8
+#EXTINF:-1 tvg-name="RECORD SP FHD"tvg-id="RecordTVSaoPaulo.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/693-b-1711829623693.png"group-title="RECORD",RECORD SP FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1063.m3u8
+#EXTINF:-1 tvg-name="RECORD GOIAS HD"tvg-id="br#record-goias"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/5252-b-1712707069185.png"group-title="RECORD",RECORD GOIAS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19145.m3u8
+#EXTINF:-1 tvg-name="RECORD GOIAS FHD"tvg-id="br#record-goias"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/5252-b-1712707069185.png"group-title="RECORD",RECORD GOIAS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1033.m3u8
+#EXTINF:-1 tvg-name="CANAL DO BOI HD"tvg-id="CanaldoBoi.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1098-s-1711830069230.png"group-title="ABERTOS",CANAL DO BOI HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19398.m3u8
+#EXTINF:-1 tvg-name="CANAL DO BOI FHD"tvg-id="CanaldoBoi.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1098-s-1711830069230.png"group-title="ABERTOS",CANAL DO BOI FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/713814.m3u8
+#EXTINF:-1 tvg-name="CANAL RURAL HD"tvg-id="CanalRural.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1099-s-1711830125605.png"group-title="ABERTOS",CANAL RURAL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19573.m3u8
+#EXTINF:-1 tvg-name="CANAL RURAL FHD"tvg-id="CanalRural.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1099-s-1711830125605.png"group-title="ABERTOS",CANAL RURAL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/691284.m3u8
+#EXTINF:-1 tvg-name="FUTURA HD"tvg-id="CanalFutura.br"tvg-logo="http://img.hzplay.fun/logos/Canais-Aberto/futura.png"group-title="ABERTOS",FUTURA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19229.m3u8
+#EXTINF:-1 tvg-name="FUTURA FHD"tvg-id="CanalFutura.br"tvg-logo="http://img.hzplay.fun/logos/Canais-Aberto/futura.png"group-title="ABERTOS",FUTURA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19003.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL HD"tvg-id="RedeBrasil.br"tvg-logo="http://img.hzplay.fun/logos/outros/rede-brasil-hd.png"group-title="ABERTOS",REDE BRASIL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/573.m3u8
+#EXTINF:-1 tvg-name="REDE MINAS HD"tvg-id="RedeMinas.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1466-s-1711830256751.png"group-title="ABERTOS",REDE MINAS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/691285.m3u8
+#EXTINF:-1 tvg-name="REDE TV HD"tvg-id="RedeTV.br"tvg-logo="http://img.hzplay.fun/logos/outros/rede-tv-hd.png"group-title="ABERTOS",REDE TV HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/858.m3u8
+#EXTINF:-1 tvg-name="REDE TV FHD"tvg-id="RedeTV.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4419-s-1711830319897.png"group-title="ABERTOS",REDE TV FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1034.m3u8
+#EXTINF:-1 tvg-name="TERRA VIVA HD"tvg-id="TerraViva.br"tvg-logo="http://img.hzplay.fun/logos/outros/terra-viva-hd.png"group-title="ABERTOS",TERRA VIVA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/592.m3u8
+#EXTINF:-1 tvg-name="TERRA VIVA FHD"tvg-id="TerraViva.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2132-s-1711830419489.png"group-title="ABERTOS",TERRA VIVA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19345.m3u8
+#EXTINF:-1 tvg-name="TV BRASIL HD"tvg-id="TVBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2219-b-1713633503245.png"group-title="ABERTOS",TV BRASIL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/216322.m3u8
+#EXTINF:-1 tvg-name="TV BRASIL FHD"tvg-id="TVBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2219-b-1713633503245.png"group-title="ABERTOS",TV BRASIL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19356.m3u8
+#EXTINF:-1 tvg-name="TV CAMARA HD"tvg-id="TVCamara.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2172-s-1711830531091.png"group-title="ABERTOS",TV CAMARA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19357.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA HD"tvg-id="TVCulturaNacional.br"tvg-logo="http://img.hzplay.fun/logos/outros/tv-cultura-hd.png"group-title="ABERTOS",TV CULTURA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/604.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA FHD"tvg-id="TVCulturaNacional.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4330-s-1711830591774.png"group-title="ABERTOS",TV CULTURA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/216321.m3u8
+#EXTINF:-1 tvg-name="TV GAZETA HD"tvg-id="TVGazeta.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4352-s-1711830637161.png"group-title="ABERTOS",TV GAZETA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19090.m3u8
+#EXTINF:-1 tvg-name="TV SENADO HD"tvg-id="TVSenado.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2209-s-1711830728607.png"group-title="ABERTOS",TV SENADO HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/216326.m3u8
+#EXTINF:-1 tvg-name="TV SENADO FHD"tvg-id="TVSenado.br"tvg-logo="http://img.hzplay.fun/logos/outros/tv-senado-fhd.png"group-title="ABERTOS",TV SENADO FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/608.m3u8
+#EXTINF:-1 tvg-name="TVE BAHIA HD"tvg-id="TVEBahia.br"tvg-logo="https://vivamaisvivamelhor.com.br/wp-content/uploads/2019/01/viva-mais-viva-melhor-parceiros-tve-bahia.jpg"group-title="ABERTOS",TVE BAHIA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/260068.m3u8
+#EXTINF:-1 tvg-name="TV PAMPA HD"tvg-id="TVPampa.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4686-b-1754360005671.png"group-title="ABERTOS",TV PAMPA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/691286.m3u8
+#EXTINF:-1 tvg-name="BAND NEWS HD"tvg-id="BandNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3802-s-1711651876421.png"group-title="NOTICIAS",BAND NEWS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/201347.m3u8
+#EXTINF:-1 tvg-name="BAND NEWS FHD"tvg-id="BandNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3802-s-1711651876421.png"group-title="NOTICIAS",BAND NEWS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/967.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL HD"tvg-id="CNNBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3810-s-1711652053419.png"group-title="NOTICIAS",CNN BRASIL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/249701.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL FHD"tvg-id="CNNBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3810-s-1711652053419.png"group-title="NOTICIAS",CNN BRASIL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/27002.m3u8
+#EXTINF:-1 tvg-name="GLOBO NEWS HD"tvg-id="GloboNews.br"tvg-logo="http://img.hzplay.fun/logos/outros/globo-news-hd.png"group-title="NOTICIAS",GLOBO NEWS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/824.m3u8
+#EXTINF:-1 tvg-name="GLOBO NEWS FHD"tvg-id="GloboNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/735-s-1711652142863.png"group-title="NOTICIAS",GLOBO NEWS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1000.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD"tvg-id="JPNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/336-s-1711652348779.png"group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/214629.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD"tvg-id="JPNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/336-s-1711652348779.png"group-title="NOTICIAS",JOVEM PAN NEWS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/214630.m3u8
+#EXTINF:-1 tvg-name="RECORD NEWS HD"tvg-id="RecordNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1899-b-1714747256924.png"group-title="NOTICIAS",RECORD NEWS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1132.m3u8
+#EXTINF:-1 tvg-name="RECORD NEWS FHD"tvg-id="RecordNews.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1899-b-1714747256924.png"group-title="NOTICIAS",RECORD NEWS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/201369.m3u8
+#EXTINF:-1 tvg-name="SBT NEWS HD"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/3326-b-1765843247109.png"group-title="NOTICIAS",SBT NEWS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/805303.m3u8
+#EXTINF:-1 tvg-name="SBT NEWS FHD"tvg-id=""tvg-logo="http://st1.horizonplay.io:8080/icon/3326-b-1765843247109.png"group-title="NOTICIAS",SBT NEWS FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/806821.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD"tvg-id="AnimalPlanet.br"tvg-logo="http://img.hzplay.fun/logos/outros/animal-planet-hd.png"group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/792.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD"tvg-id="AnimalPlanet.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4432-s-1711746942113.png"group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/965.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD"tvg-id="DiscoveryChannel.br"tvg-logo="http://img.hzplay.fun/logos/outros/discovery-channel-hd.png"group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/801.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD"tvg-id="DiscoveryChannel.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/1144-s-1712310078574.png"group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/977.m3u8
+#EXTINF:-1 tvg-name="BOA VONTADE TV HD"tvg-id="BoaVontadeTV.br"tvg-logo="http://img.hzplay.fun/logos/Religiosos/boa-vontade-tv.png"group-title="RELIGIOSOS",BOA VONTADE TV HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19055.m3u8
+#EXTINF:-1 tvg-name="CANCAO NOVA HD"tvg-id="TVCancaoNova.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4771-b-1711909915199.png"group-title="RELIGIOSOS",CANCAO NOVA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19171.m3u8
+#EXTINF:-1 tvg-name="CANCAO NOVA FHD"tvg-id="TVCancaoNova.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4771-b-1711909915199.png"group-title="RELIGIOSOS",CANCAO NOVA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/795927.m3u8
+#EXTINF:-1 tvg-name="CNT HD"tvg-id="br#cnt"tvg-logo="http://img.hzplay.fun/logos/Canais-Aberto/rede-cnt.png"group-title="RELIGIOSOS",CNT HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/1093.m3u8
+#EXTINF:-1 tvg-name="GOSPEL MUSIC HD"tvg-id="RedeGospel.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/6582-b-1718299682276.jpg"group-title="RELIGIOSOS",GOSPEL MUSIC HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/734680.m3u8
+#EXTINF:-1 tvg-name="IGREJA MUNDIAL HD"tvg-id=""tvg-logo="http://st1.horizonplay.io:8080/icon/4626-b-1781300516282.jpeg"group-title="RELIGIOSOS",IGREJA MUNDIAL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/816889.m3u8
+#EXTINF:-1 tvg-name="IGREJA MUNDIAL FHD"tvg-id=""tvg-logo="http://st1.horizonplay.io:8080/icon/4626-b-1781300516282.jpeg"group-title="RELIGIOSOS",IGREJA MUNDIAL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/816888.m3u8
+#EXTINF:-1 tvg-name="IGREJA UNIVERSAL"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/6555-b-1753226129136.png"group-title="RELIGIOSOS",IGREJA UNIVERSAL
+http://mshz26.xyz:80/live/Mschmitt/55103540/795929.m3u8
+#EXTINF:-1 tvg-name="REDE GOSPEL HD"tvg-id="RedeGospel.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4770-b-1711910307911.jpg"group-title="RELIGIOSOS",REDE GOSPEL HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/272551.m3u8
+#EXTINF:-1 tvg-name="REDE GOSPEL FHD"tvg-id="RedeGospel.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4770-b-1711910307911.jpg"group-title="RELIGIOSOS",REDE GOSPEL FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/795928.m3u8
+#EXTINF:-1 tvg-name="REDE SECULO 21 HD"tvg-id="RedeSeculo21.br"tvg-logo=""group-title="RELIGIOSOS",REDE SECULO 21 HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/751411.m3u8
+#EXTINF:-1 tvg-name="REDE SUPER HD"tvg-id="RedeSuper.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4775-b-1753221083663.png"group-title="RELIGIOSOS",REDE SUPER HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/272554.m3u8
+#EXTINF:-1 tvg-name="REDE SUPER FHD"tvg-id="RedeSuper.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4775-b-1753221083663.png"group-title="RELIGIOSOS",REDE SUPER FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/795925.m3u8
+#EXTINF:-1 tvg-name="REDE VIDA HD"tvg-id="RedeVida.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4423-s-1711910361339.png"group-title="RELIGIOSOS",REDE VIDA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19380.m3u8
+#EXTINF:-1 tvg-name="REDE VIDA FHD"tvg-id="RedeVida.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4423-s-1711910361339.png"group-title="RELIGIOSOS",REDE VIDA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/19051.m3u8
+#EXTINF:-1 tvg-name="RIT TV HD"tvg-id="Rit.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/8473-s-1711910416527.jpg"group-title="RELIGIOSOS",RIT TV HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/272553.m3u8
+#EXTINF:-1 tvg-name="TV APARECIDA HD"tvg-id="TVAparecida.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2150-s-1711911000310.png"group-title="RELIGIOSOS",TV APARECIDA HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/217290.m3u8
+#EXTINF:-1 tvg-name="TV APARECIDA FHD"tvg-id="TVAparecida.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/2150-s-1711911000310.png"group-title="RELIGIOSOS",TV APARECIDA FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/795926.m3u8
+#EXTINF:-1 tvg-name="TV EVANGELIZAR HD"tvg-id="TVEvangelizar.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4742-b-1711911083648.png"group-title="RELIGIOSOS",TV EVANGELIZAR HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/217289.m3u8
+#EXTINF:-1 tvg-name="TV MUNDO MAIOR HD"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/6521-b-1753203742778.png"group-title="RELIGIOSOS",TV MUNDO MAIOR HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/795923.m3u8
+#EXTINF:-1 tvg-name="TV NOVO TEMPO HD"tvg-id="TVNovoTempoBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4748-b-1711911191445.png"group-title="RELIGIOSOS",TV NOVO TEMPO HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/217292.m3u8
+#EXTINF:-1 tvg-name="TV NOVO TEMPO FHD"tvg-id="TVNovoTempoBrasil.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4748-b-1711911191445.png"group-title="RELIGIOSOS",TV NOVO TEMPO FHD
+http://mshz26.xyz:80/live/Mschmitt/55103540/217293.m3u8
+#EXTINF:-1 tvg-name="TV PADRE CICERO"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/4947-b-1753204030028.png"group-title="RELIGIOSOS",TV PADRE CICERO
+http://mshz26.xyz:80/live/Mschmitt/55103540/795924.m3u8
+#EXTINF:-1 tvg-name="TV PAI ETERNO HD"tvg-id="TvPaiEterno.br"tvg-logo="http://st1.coverstmdb.xyz:8080/icon/5540-b-1711911283228.png"group-title="RELIGIOSOS",TV PAI ETERNO HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/272546.m3u8
+#EXTINF:-1 tvg-name="TV PROMESSAS HD"tvg-id=""tvg-logo="http://st1.coverstmdb.xyz:8080/icon/5551-s-1711911368177.jpg"group-title="RELIGIOSOS",TV PROMESSAS HD
+http://mshz26.xyz:80/live/Mschmitt/55103540/272547.m3u8
